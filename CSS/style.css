@@ -1,7 +1,7 @@
 body{
     margin-top: 250px;
 }
-
+/*Flag Green Square Part*/
 .flag-green{
     width: 600px;
     height: 350px;
@@ -13,8 +13,7 @@ body{
     bottom: 0;
     margin: auto;
 }
-
-
+/*Flag Red Circle Part*/
 .flag-red{
     width: 200px;
     height: 200px;
@@ -27,7 +26,6 @@ body{
     border-radius: 50%;
     margin: auto;
 }
-
 h2{
     text-align: center;
     color: rgb(16, 173, 235);
